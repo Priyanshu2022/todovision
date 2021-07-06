@@ -1,0 +1,68 @@
+.todo h1{
+    align-content: center;
+    font-weight: 100;
+}
+.todo{
+    align-self: center;
+
+}
+.completedText{
+    text-decoration: line-through;
+    color:grey;
+}
+.todo input{
+    background: transparent;
+    border: none;
+    min-width: 400px;
+    margin-top: 40px;
+    padding: 5px;
+    font-size: 1rem;
+}
+.todo input::placeholder{
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 1.3rem;
+}
+.todo input:focus{
+    outline: none;
+}
+.add-btn{
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 30%;
+    color: black;
+    border: none;
+}
+.add-btn:hover{
+    transform: scale(1.1);
+}
+.todo ul{
+    font-size: 1.5rem;
+    margin-top: 30px;
+}
+.delete {
+    margin-top: 5px;
+    float: right;
+    padding: 4px 10px 4px 10px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    background-color: #ff3300af;
+    color: white;
+  }
+  .delete:hover{
+      transform: scale(1.05);
+  }
+.completed {
+    margin-top: 5px;
+    float: right;
+    padding: 4px 10px 4px 10px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    background-color: #33FFCC;
+    margin-left: 10px;
+    color: white;
+  }
+  .completed:hover{
+      transform: scale(1.05);
+  }
