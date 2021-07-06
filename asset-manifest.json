@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todovision/static/css/main.ab5136d1.chunk.css",
+    "main.js": "/todovision/static/js/main.e183d715.chunk.js",
+    "main.js.map": "/todovision/static/js/main.e183d715.chunk.js.map",
+    "runtime-main.js": "/todovision/static/js/runtime-main.232f5411.js",
+    "runtime-main.js.map": "/todovision/static/js/runtime-main.232f5411.js.map",
+    "static/js/2.617549a3.chunk.js": "/todovision/static/js/2.617549a3.chunk.js",
+    "static/js/2.617549a3.chunk.js.map": "/todovision/static/js/2.617549a3.chunk.js.map",
+    "static/js/3.0165a10a.chunk.js": "/todovision/static/js/3.0165a10a.chunk.js",
+    "static/js/3.0165a10a.chunk.js.map": "/todovision/static/js/3.0165a10a.chunk.js.map",
+    "index.html": "/todovision/index.html",
+    "static/css/main.ab5136d1.chunk.css.map": "/todovision/static/css/main.ab5136d1.chunk.css.map",
+    "static/js/2.617549a3.chunk.js.LICENSE.txt": "/todovision/static/js/2.617549a3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/todovision/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.232f5411.js",
+    "static/js/2.617549a3.chunk.js",
+    "static/css/main.ab5136d1.chunk.css",
+    "static/js/main.e183d715.chunk.js"
+  ]
+}
